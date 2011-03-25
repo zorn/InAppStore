@@ -37,17 +37,17 @@
 		1A3CA0FC133CE4EA005DCA3F /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		1A3CA0FE133CE4EA005DCA3F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		1A3CA100133CE4EA005DCA3F /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		1A3CA104133CE4EA005DCA3F /* InAppStore-Info.plist */ = {isa = PBXFileReference; path = "InAppStore-Info.plist"; sourceTree = "<group>"; };
+		1A3CA104133CE4EA005DCA3F /* InAppStore-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "InAppStore-Info.plist"; sourceTree = "<group>"; };
 		1A3CA106133CE4EA005DCA3F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		1A3CA108133CE4EA005DCA3F /* InAppStore-Prefix.pch */ = {isa = PBXFileReference; path = "InAppStore-Prefix.pch"; sourceTree = "<group>"; };
+		1A3CA108133CE4EA005DCA3F /* InAppStore-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "InAppStore-Prefix.pch"; sourceTree = "<group>"; };
 		1A3CA109133CE4EA005DCA3F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		1A3CA10B133CE4EA005DCA3F /* InAppStoreAppDelegate.h */ = {isa = PBXFileReference; path = InAppStoreAppDelegate.h; sourceTree = "<group>"; };
+		1A3CA10B133CE4EA005DCA3F /* InAppStoreAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = InAppStoreAppDelegate.h; sourceTree = "<group>"; };
 		1A3CA10C133CE4EA005DCA3F /* InAppStoreAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = InAppStoreAppDelegate.m; sourceTree = "<group>"; };
 		1A3CA10F133CE4EA005DCA3F /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
 		1A3CA116133CE4EA005DCA3F /* InAppStoreTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = InAppStoreTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
-		1A3CA11E133CE4EA005DCA3F /* InAppStoreTests-Info.plist */ = {isa = PBXFileReference; path = "InAppStoreTests-Info.plist"; sourceTree = "<group>"; };
+		1A3CA11E133CE4EA005DCA3F /* InAppStoreTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "InAppStoreTests-Info.plist"; sourceTree = "<group>"; };
 		1A3CA120133CE4EA005DCA3F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		1A3CA122133CE4EA005DCA3F /* InAppStoreTests-Prefix.pch */ = {isa = PBXFileReference; path = "InAppStoreTests-Prefix.pch"; sourceTree = "<group>"; };
+		1A3CA122133CE4EA005DCA3F /* InAppStoreTests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "InAppStoreTests-Prefix.pch"; sourceTree = "<group>"; };
 		1A3CA123133CE4EA005DCA3F /* InAppStoreTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = InAppStoreTests.h; sourceTree = "<group>"; };
 		1A3CA125133CE4EA005DCA3F /* InAppStoreTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = InAppStoreTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
